@@ -9,8 +9,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wavgado)](https://github.com/anuraghazra/github-readme-stats)
 	
   </div>
-  
-<h3 align="center">A passionate frontend developer from India</h3>
 
 
 <h3 align="left">사용하고있는 프로그램:</h3>
