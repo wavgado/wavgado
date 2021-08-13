@@ -3,10 +3,9 @@
   
    <div align=center>
  
- ```
-  Python ████████████████ 100 %
- ```
- 
+github-readme-stats.vercel.app/api/top-langs/?username={사용자명}&langs_count=8
+
+
    </div>
    
   </div>
