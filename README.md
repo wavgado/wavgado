@@ -3,7 +3,7 @@
   
    <div align=center>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjuny768&langs_count=1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wavgado&langs_count=1)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -14,7 +14,7 @@
   
    <div align=center>
  
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wavgado)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jjuny768)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
