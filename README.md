@@ -14,7 +14,7 @@
   
    <div align=center>
  
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jjuny768)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wavgado)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
