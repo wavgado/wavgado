@@ -32,7 +32,7 @@
   
    <div align=center>
 	
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wavgado&show_icons=true)
 
 
 	
