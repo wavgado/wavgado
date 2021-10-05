@@ -15,7 +15,8 @@
   
    <div align=center>
  
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wavgado&theme=dark))](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wavgado&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
