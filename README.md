@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows Terminal-4D4D4D?style=flat-square&logo=Windows Terminal&logoColor=white"/>
+<img src="https://img.shields.io/badge/WindowsTerminal-4D4D4D?style=flat-square&logo=WindowsTerminal&logoColor=white"/>
 
 
  
