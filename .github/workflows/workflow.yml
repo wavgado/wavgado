@@ -38,5 +38,6 @@ jobs:
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers, following
-          plugin_poopmap: yes
-          plugin_poopmap_days: 7
+          plugin_rss: yes
+          plugin_rss_limit: 4
+          plugin_rss_source: https://news.sbs.co.kr/news/SectionRssFeed.do?sectionId=09&plink=RSSREADER
