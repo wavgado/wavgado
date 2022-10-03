@@ -2,4 +2,4 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=wavgado&theme=darkhub)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wavgado&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wavgado&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,markdown,github,vscode)](https://skillicons.dev)
